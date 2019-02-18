@@ -1,1 +1,2 @@
-
+# AWS in Python
+Learnt about cloud formations in AWS at work experience and helped write some code to form them, so whilst at home I played around with the **Troposphere** libary for python and made my own cloud formation config file. All it does is creates a EC2 t4Micro instance so it is not very useful in real life. I will oneday try to use it real project to provision AWS assets for production.
